@@ -1,0 +1,28 @@
+# LaTeX files
+*.tex
+*.aux
+*.log
+*.pdf
+*.out
+*.synctex.gz
+report/
+
+# Data and credentials
+data/
+saved/
+kaggle_token.txt
+*.csv
+
+# Assignment PDF
+a2w26.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
